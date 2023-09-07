@@ -1,0 +1,7 @@
+name: IC2
+version: 0.2
+main: FoxWorn3365\IC2\Core
+api: 5.0.0
+
+description: Add the IC2 mod to your PMMP world with a simple plugin!
+website: https://github.com/FoxWorn3365/IC2
